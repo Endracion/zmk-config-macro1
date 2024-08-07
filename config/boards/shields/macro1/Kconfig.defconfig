@@ -1,0 +1,6 @@
+if SHIELD_MACRO1
+
+config ZMK_MACRO1
+    default "macro1"
+
+endif
