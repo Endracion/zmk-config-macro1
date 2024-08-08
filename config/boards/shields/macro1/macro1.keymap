@@ -17,7 +17,7 @@
     &kp F    &kp KP_N7    &kp KP_N8    &kp KP_N9     &kp KP_PLUS
     &kp G    &kp KP_N4    &kp KP_N5    &kp KP_N6
     &kp H    &kp KP_N1    &kp KP_N2    &kp KP_N3
-    &kp I    &kp KP_N0    &kp PERIOD    &kp KP_ENTER
+    &kp I    &kp KP_N0    &kp KP_DOT    &kp KP_ENTER
             >;
         };
     };
